@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", () => {
   const btn = document.getElementById("proximamente");
 
@@ -7,6 +8,13 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 });
+
+  
+    
+    
+    
+  
+
 
   
   
