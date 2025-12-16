@@ -1,13 +1,21 @@
-
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", function () {
   const btn = document.getElementById("proximamente");
 
   if (btn) {
-    btn.addEventListener("click", () => {
-      alert("Ragascore estará disponible próximamente en Google Play 🚀");
+    btn.addEventListener("click", function () {
+      alert("🚀 Próximamente en Google Play");
     });
   }
 });
+
+
+
+  
+    
+      
+    
+  
+
 
   
     
