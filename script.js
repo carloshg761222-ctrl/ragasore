@@ -1,9 +1,18 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const btn = document.getElementById("googlePlay");
-  btn.addEventListener("click", () => {
-    window.open("https://play.google.com", "_blank");
-  });
+  const btn = document.getElementById("proximamente");
+
+  if (btn) {
+    btn.addEventListener("click", () => {
+      alert("Ragascore estará disponible próximamente en Google Play 🚀");
+    });
+  }
 });
+
+  
+  
+    
+  
+
 
 
 
