@@ -1,12 +1,5 @@
-document.addEventListener("DOMContentLoaded", function () {
-  const btn = document.getElementById("proximamente");
+// RagaScore - lógica futura
 
-  if (btn) {
-    btn.addEventListener("click", function () {
-      alert("🚀 Próximamente en Google Play");
-    });
-  }
-});
 
 
 
